@@ -1,3 +1,5 @@
+import warnings
+
 import transformers
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
@@ -18,12 +20,14 @@ def main():
         input_ids = tokenizer(
             prompt, return_tensors="pt"
         ).input_ids
-        gen_tokens = model.generate(
-            input_ids,
-            do_sample=True,
-            temperature=0.1,
-            max_length=100
-        )
+        with warnings.catch_warnings():
+            warnings.simplefilter("ignore")
+            gen_tokens = model.generate(
+                input_ids,
+                do_sample=True,
+                temperature=0.1,
+                max_length=100
+            )
         return tokenizer.batch_decode(gen_tokens)[0]
 
     # init

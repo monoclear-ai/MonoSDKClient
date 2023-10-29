@@ -80,10 +80,10 @@ class Runner:
                     continue
                 print(f"Eval : {eval}")
             elif action == ServerAction.EMPTY:
-                print("Empty queue")
+                print("Loading data ...")
                 pass
             elif action == ServerAction.NOT_INIT:
-                print("Unitialized queue")
+                print("Initializing system ...")
                 pass
             sleep(self.interval)
         if not success:

@@ -5,8 +5,6 @@ from pydantic import BaseModel
 
 class Task(Enum):
     HAERAE = "HAERAE"
-    KOBEST = "KOBEST"
-    KLUE = "KLUE"
     # TODO : More tasks Korean and English
 
 
