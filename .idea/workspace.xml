@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38260e85-e797-46c3-9dfa-4cd50c9f12f5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="2f5936ba-eaf5-4d64-bd47-ca2ab6cd0ba1" />
+  <component name="ProjectId" id="2WCPUmqBvttxaJ2GJQ2TyWKtqlt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="MonoSDK" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38260e85-e797-46c3-9dfa-4cd50c9f12f5" name="Default Changelist" comment="" />
+      <created>1696233606369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696233606369</updated>
+      <workItem from="1696233620125" duration="10491000" />
+      <workItem from="1696388858500" duration="3704000" />
+      <workItem from="1696462928000" duration="3518000" />
+      <workItem from="1696664339458" duration="1102000" />
+      <workItem from="1696827164329" duration="2633000" />
+      <workItem from="1696971005167" duration="124000" />
+      <workItem from="1697081165423" duration="8239000" />
+      <workItem from="1697118220995" duration="16521000" />
+      <workItem from="1697179193004" duration="1257000" />
+      <workItem from="1697218201472" duration="8725000" />
+      <workItem from="1697629820462" duration="623000" />
+      <workItem from="1697673187760" duration="792000" />
+      <workItem from="1697752893823" duration="2108000" />
+      <workItem from="1697888563261" duration="1839000" />
+      <workItem from="1698143674422" duration="1170000" />
+      <workItem from="1698317981430" duration="469000" />
+      <workItem from="1698533610144" duration="9414000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="154" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1697091142199">
+      <screen x="0" y="25" width="1680" height="940" />
+    </state>
+    <state x="0" y="154" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.940@0.25.1680.940" timestamp="1697091142199" />
+    <state x="628" y="254" key="FileChooserDialogImpl" timestamp="1697772958140">
+      <screen x="0" y="25" width="1680" height="945" />
+    </state>
+    <state x="628" y="254" key="FileChooserDialogImpl/0.25.1680.945@0.25.1680.945" timestamp="1697772958140" />
+    <state x="661" y="284" width="764" height="566" key="find.popup" timestamp="1698537980166">
+      <screen x="0" y="25" width="1920" height="970" />
+    </state>
+    <state x="661" y="284" width="764" height="566" key="find.popup/-1680.25.1680.1025/0.25.1920.970@0.25.1920.970" timestamp="1698537980166" />
+    <state x="-1261" y="27" width="602" height="490" key="find.popup/-1920.-255.1920.1055/0.25.1280.708@-1920.-255.1920.1055" timestamp="1696292117007" />
+    <state x="-1261" y="27" width="602" height="490" key="find.popup/-1920.-255.1920.1055/0.25.1280.709@-1920.-255.1920.1055" timestamp="1696490268075" />
+    <state x="-1261" y="27" width="602" height="490" key="find.popup/-1920.-255.1920.1055/0.25.1280.713@-1920.-255.1920.1055" timestamp="1696401684839" />
+    <state x="578" y="276" width="668" height="548" key="find.popup/0.25.1680.940@0.25.1680.940" timestamp="1697355150445" />
+    <state x="578" y="277" width="668" height="550" key="find.popup/0.25.1680.942@0.25.1680.942" timestamp="1697135355027" />
+    <state x="578" y="278" width="668" height="552" key="find.popup/0.25.1680.945@0.25.1680.945" timestamp="1697152520153" />
+  </component>
+</project>
