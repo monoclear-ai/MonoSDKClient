@@ -1,1 +1,1 @@
-ENDPOINT_URL = "http://127.0.0.1:8000"
+ENDPOINT_URL = "http://ec2-3-236-112-47.compute-1.amazonaws.com/sdk"
