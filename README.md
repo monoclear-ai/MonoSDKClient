@@ -1,5 +1,7 @@
 # Monoclear SDK
 
+Supports HAE-RAE for now. Look forward to more features!
+
 ## Examples
 
 See `sample_*.py` for running sample code.
