@@ -90,5 +90,9 @@ def infer(prompt):
 
 ## License
 
-We release the code under GNU Affero General Public License Version 3 (AGPTv3) or any later version.
+We release the code under GNU Affero General Public License Version 3 (AGPLv3) or any later version.
 This is same as [Plausible](https://plausible.io/), [Dub](https://dub.co/) or other recent open-source software (incl. LLM software).
+
+## Contact
+
+Please contact admin@monoclear.ai for any queries.
