@@ -1,0 +1,4 @@
+{ "prompt": "Pick randomly from 1 2 3 4 5", "answer": "1", "eval": "numeral"}
+{ "prompt": "Pick randomly from 1 2 3 4 5", "answer": "2", "eval": "numeral"}
+{ "prompt": "Pick randomly from 1 2 3 4 5", "answer": "5", "eval": "numeral"}
+{ "prompt": "Pick randomly from 1 2 3 4 5", "answer": "3", "eval": "numeral"}
